@@ -106,7 +106,7 @@
     "@tanstack/react-virtual": "3.13.23",
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^14.0.0",
-    "@tsdown/css": "^0.22.2",
+    "@tsdown/css": "^0.22.14",
     "@types/jest": "^29.5.14",
     "@types/react": "^18.2.11",
     "@types/react-dom": "^18.2.4",
