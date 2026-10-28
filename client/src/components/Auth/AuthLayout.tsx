@@ -91,7 +91,7 @@ function AuthLayout({
     <div className="bg-surface-primary relative flex min-h-screen flex-col">
       <Banner />
       <BlinkAnimation active={isFetching}>
-        <div className="mt-6 h-10 w-full bg-cover">
+        <div className="mt-6 h-16 w-full bg-cover">
           <img
             src="assets/logo.svg"
             className="h-full w-full object-contain"
